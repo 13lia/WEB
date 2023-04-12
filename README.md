@@ -1,4 +1,4 @@
-# WEB
+# Web
 CWHW8
 
 This is a simple project, created for Course: < Computer Workshop > as 8th Homework.
